@@ -3,6 +3,9 @@
   <span class="sr-only">
       screen reader label
     </span>
+  <button aria-label="Contact support">
+    <HelpCircle />
+  </button>
 */
 
 .sr-only {
